@@ -1,0 +1,3 @@
+#Cat Facial Components Detection Using CNN
+A mobile app built using React Native and Flask. The back-end language is python. The application detects parts of a cat's face and decorates stickers for it such as hats, hats, glasses,...
+![image](https://github.com/nhatTan3105/cat_facial_components_detection_using_cnn/assets/122434161/0d7a1ace-a0a6-461b-a45b-7addc46a3d2c)
